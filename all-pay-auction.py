@@ -17,3 +17,4 @@ elif player1 < player2:
 else:
     print("請輸入數字 0~10")
 
+    
