@@ -6,5 +6,5 @@ setup(
     description='Play game',
     author='Maggie Tsai',
     packages=find_packages(),
-    install_requires=['google-api-python-client'],
+    install_requires=['google-api-python-client', 'google-auth-httplib2', 'google-auth-oauthlib'],
 )
